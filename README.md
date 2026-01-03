@@ -80,6 +80,7 @@ The outputs always represent the actual measured values, not just the setpoints.
 - Stop execution or take corrective action if VISA errors occur
 
 ### 🔁 Typical Integration Patterns
+<img width="3079" height="781" alt="BK1900B Driver" src="https://github.com/user-attachments/assets/1c593315-f947-4f7a-b365-5f05c59a57f6" />
 Common ways to integrate this subVI:
 - Single-shot control
   - Set voltage/current once and read back values
