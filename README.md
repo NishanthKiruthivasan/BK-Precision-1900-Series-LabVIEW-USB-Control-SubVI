@@ -111,10 +111,7 @@ No additional conversion is required.
 - Use error wiring to enforce execution order
 
 ### 🔧 Possible Enhancements
-
 - Output ON/OFF control
-- Remote/local mode handling
-- Separate Init / Set / Measure / Close VIs
 - Timeout configuration
 - Multi-instrument support
 
